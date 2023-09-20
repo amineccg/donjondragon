@@ -1,0 +1,68 @@
+objet magique DD
+
+TUEUSE DE DRAGON
+Vous gagnez un bonus de +1 à l'attaque et aux dégâts fait avec cette arme magique.
+
+BOUCLIER DE SENTINELLE
+Tant que vous êtes équipé de ce bouclier, vous avez un avantage à vos jets d'initiative et à vos jets de Sagesse (Perception)
+
+SAC SANS FOND
+Ce sac de toile a un espace intérieur beaucoup plus grand que ses dimensions extérieures, environ 60 cm de diamètre à l'ouverture et 1,20 m de profondeur
+
+VAGUE
+Confiné dans le donjon de la Montagne de la Plume Blanche, ce trident est une arme raffinée ornementée de représentation de vagues
+
+MAILLES ELFIQUES
+Vous gagnez un bonus de +1 à la CA lorsque vous portez cette armure.
+
+5 MONSTRES DE DONJ ET DRAG
+
+AARAKOCRA
+Classe d'armure 12
+Points de vie 13 (3d8)
+Vitesse 6 m, vol 15 m
+Compétences Perception +5
+Sens Perception passive 15
+Langues aérien, aarakocra
+Puissance 1/4 (50 PX)
+
+ASSASSIN
+Classe d'armure 15 (armure de cuir clouté)
+Points de vie 78 (12d8 + 24)
+Vitesse 9 m
+Jets de sauvegarde Dex +6, Int +4
+Compétences Acrobaties +6, Discrétion +9, Perception +3, Tromperie +3
+Résistances aux dégâts poison
+Sens Perception passive 13
+Langues jargon des voleurs plus deux langues au choix
+Puissance 8 (3900 PX)
+
+ACOLYTE
+Classe d'armure 10
+Points de vie 9 (2d8)
+Vitesse 9 m
+Compétences Médecine +4, Religion +2
+Sens Perception passive 12
+Langues une langue au choix (généralement le commun)
+Puissance 1/4 (50 PX)
+
+ALLOSAURE
+Classe d'armure 13 (armure naturelle)
+Points de vie 51 (6d10 + 18)
+Vitesse 18 m
+Compétences Perception +5
+Sens Perception passive 15
+Langues —
+Puissance 2 (450 PX)
+
+BABAU
+Classe d'armure 16 (armure naturelle)
+Points de vie 82 (11d8 + 33)
+Vitesse 12 m
+Compétences Perception +5, Discrétion +5
+Résistances aux dégâts froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux dégâts poison
+Immunités aux états empoisonné
+Sens vision dans le noir 36 m, Perception passive 15
+Langues abyssal
+Puissance 4 (1100 PX)     Bonus de maîtrise +2
