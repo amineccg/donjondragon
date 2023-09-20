@@ -1,0 +1,29 @@
+OBJET MAGIQUE 2
+ARME VICIEUSE 
+Lorsque vous obtenez un 20 naturel à votre jet d'attaque avec cette arme magique, votre coup critique inflige 7 dégâts supplémentaires du type correspondant à l'arme.
+
+AMMULETTE ANTIDOTE
+ Lorsque vous la portez, les poisons n'ont aucun effet sur vous. Vous êtes immunisé contre l'état empoisonné et contre les dégâts de poison.
+ 
+ BAGUETTE D'ECLAIRS
+ Cette baguette possède 7 charges. Si vous la tenez, vous pouvez utiliser une action pour dépenser 1 ou plusieurs charges
+ 
+ BATON DE FEU
+ Vous obtenez la résistance aux dégâts de feu tant que vous tenez ce bâton.
+Le bâton possède 10 charges
+
+CAPE DE VOL
+Lorsque vous portez cette cape, vous pouvez utiliser une action pour prononcer son mot de commande. Cela transforme la cape en une paire d'ailes de chauve-souris ou d'oiseau sur votre dos pendant 1 heure,
+
+
+
+MONSTRE DE DON ET DRAG 2
+BLAIREAU
+
+CACHALOT
+
+CHAMPION
+
+CAMBION
+
+CENTAURE
