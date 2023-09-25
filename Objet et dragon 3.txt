@@ -8,7 +8,7 @@ Jets de sauvegarde Int +5, Sag +5, Cha +6
 Immunités aux états pétrifié
 Sens vision dans le noir 36 m, Perception passive 11
 Langues terreux
-Puissance 11 (7200 PX)
+Puissance 2 (7200 PX)
 
  
 
